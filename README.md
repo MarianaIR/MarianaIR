@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
-<img align= "rigth" width="400" src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fwww.kaggle.com%2Frajattomar132&psig=AOvVaw1gr0cMrWFTQUOXZMCzWfNm&ust=1695310285916000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCLC6urLBuYEDFQAAAAAdAAAAABAE">
+<img align= "rigth" width="400" src="![image](https://github.com/MarianaIR/MarianaIR/assets/105397276/f85c0585-cae6-492e-9566-dc7be77a9cfd)">
 
 
 

@@ -1,4 +1,6 @@
 ### Hi there 👋
+<img align= "rigth" width="400" src= "![image](https://github.com/MarianaIR/MarianaIR/assets/105397276/9306c97b-c4a4-4834-8c5d-2f6c25927185)">
+
 
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact

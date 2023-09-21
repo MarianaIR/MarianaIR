@@ -1,8 +1,6 @@
 
- <img align= "center" width="1000" height="180" src="https://images.squarespace-cdn.com/content/v1/5c6dc609e666695214ebd4d8/1586974700839-OGIP29NR0DDI7DM5MU78/WindyImpeccableArkshell-size_restricted.gif">
+ <img align= "center" width="1000" height="250" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif">
   
-
-   
 💫 About Me: 
 
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
@@ -16,7 +14,7 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaIR&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<img align= "right" width="225" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif">
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MarianaIR&icon=5&color=0)](https://visitcount.itsvg.in)

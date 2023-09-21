@@ -1,6 +1,10 @@
 
-   ·····
-# 💫 About Me:
+ <img align= "center" width="1000" height="180" src="https://images.squarespace-cdn.com/content/v1/5c6dc609e666695214ebd4d8/1586974700839-OGIP29NR0DDI7DM5MU78/WindyImpeccableArkshell-size_restricted.gif">
+  
+
+   
+💫 About Me: 
+
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 

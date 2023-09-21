@@ -5,7 +5,7 @@
 
  <h2 align="center">xxxxxxxxxxx ......</h2>
 
-💫 About Me: 
+ <h3 align="left">💫 About Me</h3>
 
 
 - 🌱 I’m currently learning .....
@@ -39,7 +39,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/xxxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xxxx" height="25" width="35" /></a>
 </p>

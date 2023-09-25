@@ -8,7 +8,7 @@
  <h3 align="left">💫 About Me</h3>
 
 
-- 🌱 I am currently learning more data science skills.
+- 🌱 I am currently learning more Data Science skills.
 
 - 👨‍💻 All my projects are available on GitHub.
 

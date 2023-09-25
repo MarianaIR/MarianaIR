@@ -8,11 +8,11 @@
  <h3 align="left">💫 About Me</h3>
 
 
-- 🌱 I’m currently learning .....
+- 🌱 I am currently learning more data science skills.
 
-- 👨‍💻 All of my projects are available at ...
+- 👨‍💻 Todos mis proyectos están disponibles en github.
 
-- 📫 How to reach me **@**...
+- 📫 How to reach me mariana210585@gmail.com
 
 - ⚡ Fun fact ....
 

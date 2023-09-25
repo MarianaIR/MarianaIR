@@ -3,14 +3,14 @@
 
  <h1 align="center">Hi 👋, I'm Mariana</h1>
 
- <h2 align="center">xxxxxxxxxxx ......</h2>
+ <h2 align="center"></h2>
 
  <h3 align="left">💫 About Me</h3>
 
 
 - 🌱 I am currently learning more data science skills.
 
-- 👨‍💻 Todos mis proyectos están disponibles en github.
+- 👨‍💻 All my projects are available on GitHub.
 
 - 📫 How to reach me mariana210585@gmail.com
 

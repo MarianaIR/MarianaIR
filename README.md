@@ -42,8 +42,20 @@
 <a href="https://www.linkedin.com/in/mariana-ibarra-2a2727241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xxxx" height="25" width="35" /></a>
 </p>
 
-[![Gmail](https://custom-icon-badges.demolab.com/badge/-D14836?logo=gmail&logoColor=white)](mailto:mariana210585@gmail.com)
+[![Gmail](https://custom-icon-badges.demolab.com/badge/-D14836?logo=gmail&logoColor=white)]mariana210585@gmail.com
 
+<h3 align="left">Contacto</h3>
+<p align="left">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/mariana-ibarra-2a2727241/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:tu_correo@gmail.com" target="_blank">
+    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="40" />
+  </a>
 
 ---
 

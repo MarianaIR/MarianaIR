@@ -37,14 +37,12 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-<h3 align="left">Contacto</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mariana-ibarra-2a2727241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xxxx" height="25" width="35" /></a>
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaIR&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-[![Gmail](https://custom-icon-badges.demolab.com/badge/-D14836?logo=gmail&logoColor=white)]mariana210585@gmail.com
+---
+[![](https://visitcount.itsvg.in/api?id=MarianaIR&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="left">Contacto</h3>
+ <h3 align="left">Contacto</h3>
 <p align="left">
 
   <!-- LinkedIn -->
@@ -52,20 +50,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:tu_correo@gmail.com" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="30" width="40" />
-  </a>
-
----
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaIR&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=MarianaIR&icon=0&color=0)](https://visitcount.itsvg.in)
-
- 
+mariana210585@gmail.com
 
 
 

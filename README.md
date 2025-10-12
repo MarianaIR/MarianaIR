@@ -1,23 +1,20 @@
 
  <img align= "center" width="1000" height="250" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif">
 
- <h1 align="center">Hi 👋, I'm Mariana</h1>
+ <h1 align="center">Hola👋</h1>
 
  <h2 align="center"></h2>
 
- <h3 align="left">💫 About Me</h3>
+ <h3 align="left">💫 Sobre mi</h3>
 
+🎓 **Estudiante de Ciencia de Datos** apasionada por el análisis, la programación y la visualización de datos.  
+💡 En estos repositorio comparto mis proyectos de aprendizaje, donde aplico técnicas de *machine learning*,*web scraping* entre otras, utilizando Python, Pandas, Scikit-learn y otras herramientas del ecosistema de datos.  
+🚀 Mi objetivo es seguir desarrollando habilidades prácticas y participar en proyectos reales que utilicen los datos para impulsar decisiones.  
 
-- 🌱 I am currently learning more Data Science skills.
+📚 **Formación continua en Ciencia de Datos y Python en Alura** 
+[![Alura](https://custom-icon-badges.demolab.com/badge/Alura-001332?logo=alura-white&logoColor=fff)](https://www.alura.com.br/) 
 
-- 👨‍💻 All my projects are available on GitHub.
-
-- 📫 How to reach me mariana210585@gmail.com
-
-- ⚡ Fun fact ....
-
-
-<h3 align="left">💻Languages and Tools</h3>
+<h3 align="left">💻Lenguajes y herramientas</h3>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
@@ -40,10 +37,12 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Contacto0</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mariana-ibarra-2a2727241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xxxx" height="25" width="35" /></a>
 </p>
+
+[![Gmail](https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=white)](mariana210585@gmail.com)
 
 ---
 

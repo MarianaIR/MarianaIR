@@ -7,9 +7,9 @@
 
  <h3 align="left">💫 Sobre mi</h3>
 
-🎓 **Estudiante de Ciencia de Datos** apasionada por el análisis, la programación y la visualización de datos.  
-💡 En los repositorios comparto mis proyectos de aprendizaje, donde aplico técnicas de *machine learning*,*web scraping* entre otras tecnicas, utilizando Python, Pandas, Scikit-learn y otras herramientas del ecosistema de datos.  
-🚀 Mi objetivo es seguir desarrollando habilidades prácticas y participar en proyectos reales que utilicen los datos para impulsar decisiones.  
+ 🎓**Estudiante de Ciencia de Datos** apasionada por el análisis, la programación y la visualización de datos.  
+ 💡  En los repositorios comparto mis proyectos de aprendizaje, donde aplico técnicas de *machine learning*,*web scraping* entre otras tecnicas, utilizando Python, Pandas, Scikit-learn y      otras herramientas del ecosistema de datos.  
+ 🚀 Mi objetivo es seguir desarrollando habilidades prácticas y participar en proyectos reales que utilicen los datos para impulsar decisiones.  
 
 📚 **Formación continua en Ciencia de Datos y Python en [![Alura](https://custom-icon-badges.demolab.com/badge/Alura-001332?logo=alura-white&logoColor=fff)](https://www.alura.com.br/)** 
 

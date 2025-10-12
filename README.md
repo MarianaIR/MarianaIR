@@ -26,6 +26,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
 [![Git](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white)](https://git-scm.com/)
 [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat&logo=plotly&logoColor=white)](https://seaborn.pydata.org/)
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](https://powerbi.microsoft.com/)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com/)
 [![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=fff)](https://keras.io/)

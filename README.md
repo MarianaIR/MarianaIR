@@ -8,11 +8,11 @@
  <h3 align="left">💫 Sobre mi</h3>
 
 🎓 **Estudiante de Ciencia de Datos** apasionada por el análisis, la programación y la visualización de datos.  
-💡 En estos repositorio comparto mis proyectos de aprendizaje, donde aplico técnicas de *machine learning*,*web scraping* entre otras, utilizando Python, Pandas, Scikit-learn y otras herramientas del ecosistema de datos.  
+💡 En los repositorios comparto mis proyectos de aprendizaje, donde aplico técnicas de *machine learning*,*web scraping* entre otras tecnicas, utilizando Python, Pandas, Scikit-learn y otras herramientas del ecosistema de datos.  
 🚀 Mi objetivo es seguir desarrollando habilidades prácticas y participar en proyectos reales que utilicen los datos para impulsar decisiones.  
 
-📚 **Formación continua en Ciencia de Datos y Python en Alura** 
-[![Alura](https://custom-icon-badges.demolab.com/badge/Alura-001332?logo=alura-white&logoColor=fff)](https://www.alura.com.br/) 
+📚 **Formación continua en Ciencia de Datos y Python en [![Alura](https://custom-icon-badges.demolab.com/badge/Alura-001332?logo=alura-white&logoColor=fff)](https://www.alura.com.br/)** 
+
 
 <h3 align="left">💻Lenguajes y herramientas</h3>
 
@@ -37,11 +37,13 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
+---
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaIR&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MarianaIR&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=MarianaIR&icon=0&color=0)](https://visitcount.itsvg.in)
  <h3 align="left">Contacto</h3>
 <p align="left">
 

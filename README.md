@@ -37,12 +37,13 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
 
-<h3 align="left">Contacto0</h3>
+<h3 align="left">Contacto</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mariana-ibarra-2a2727241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xxxx" height="25" width="35" /></a>
 </p>
 
-[![Gmail](https://custom-icon-badges.demolab.com/badge/Gmail-D14836?logo=gmail&logoColor=white)](mariana210585@gmail.com)
+[![Gmail](https://custom-icon-badges.demolab.com/badge/-D14836?logo=gmail&logoColor=white)](mailto:mariana210585@gmail.com)
+
 
 ---
 

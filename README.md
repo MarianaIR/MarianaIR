@@ -38,8 +38,7 @@
 
 ---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaIR&theme=flag-india&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarianaIR&layout=compact&theme=dark)](https://github.com/MarianaIR)
 ---
 
 [![](https://visitcount.itsvg.in/api?id=MarianaIR&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -53,6 +52,6 @@
   </a>
 
 mariana210585@gmail.com
-
+---
 
 
